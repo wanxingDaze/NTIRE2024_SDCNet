@@ -36,9 +36,9 @@ python test_evt_tlc.py  \
 --cropping 4
 ```
 
-#Acknowledgement
+# Acknowledgement
 
-#Citation
+# Citation
 If you find this project useful, please consider citing:
 ```
 @InProceedings{Liu_2024_CVPR,
