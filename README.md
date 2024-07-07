@@ -2,6 +2,9 @@
 This is the official PyTorch implementation of `SDCNet:Spatially-Adaptive Deformable Convolution Networks for HR NonHomogeneous Dehazing`.
 See more details in [ report ](https://openaccess.thecvf.com/content/CVPR2024W/NTIRE/papers/Ancuti_NTIRE_2024_Dense_and_Non-Homogeneous_Dehazing_Challenge_Report_CVPRW_2024_paper.pdf "悬停显示"),[ paper ](https://openaccess.thecvf.com/content/CVPR2024W/NTIRE/papers/Liu_SDCNetSpatially-Adaptive_Deformable_Convolution_Networks_for_HR_NonHomogeneous_Dehazing_CVPRW_2024_paper.pdf "悬停显示"),[ certificates ](https://cvlai.net/ntire/2024/NTIRE2024awards_certificates.pdf "悬停显示")
 
+# News
+- (2023/6/18) We are the winner of the NTIRE 2024 Dense and NonHomogeneous Dehazing Challenge 🏆!
+
 ### Dependencies and Installation
 - python3.7
 - PyTorch >= 1.0
