@@ -20,9 +20,16 @@ See more details in [ report ](https://openaccess.thecvf.com/content/CVPR2024W/N
 pip install DCNv4==latest
 ```
 
+### Pretrained Weights
+Download ImageNet pretrained [ Flash InternImage ](https://github.com/OpenGVLab/DCNv4) weights and [ our model weights ]() .
 
-
-And Run Test
+Please put train/val/test three folders into a root folder. This root folder would be the training dataset. Note, we have performed preprocessing to the data in folder train.
+NTIRE2024_Val, and NTIRE2024_Test contain official validation and test. If you want to obtain val and test accuracy, please step towards the official competition server.
+Train
+```
+python train.py
+```
+Test
 ```shell
 CUDA_VISIBLE_DEVICES=0 \
 python test_evt_tlc.py  \
