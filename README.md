@@ -41,7 +41,7 @@ python test_evt_tlc.py  \
 # Citation
 If you find this project useful, please consider citing:
 ```
-@InProceedings{Liu_2024_CVPR,
+@InProceedings{SDCNet,
     author    = {Liu, Yidi and Wang, Xingbo and Zhu, Yurui and Fu, Xueyang and Zha, Zheng-Jun},
     title     = {SDCNet:Spatially-Adaptive Deformable Convolution Networks for HR NonHomogeneous Dehazing},
     booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops},
