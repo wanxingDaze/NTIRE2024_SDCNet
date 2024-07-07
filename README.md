@@ -7,7 +7,7 @@ See more details in [ report ](https://openaccess.thecvf.com/content/CVPR2024W/N
 - Our solution competes in NTIRE 2024 Dense and NonHomogeneous Dehazing Challenge, achieving the BEST performance in terms of PNSR, SSIM and LPIPS.
 - (2024/6/18) We are the winner of the [ NTIRE 2024 Dense and NonHomogeneous Dehazing Challenge ](https://codalab.lisn.upsaclay.fr/competitions/17529)🏆!
 
-- Results on NTIRE 2023 NonHomogeneous Dehazing Challenge test data:
+- Results on NTIRE 2024 Dense and NonHomogeneous Dehazing Challenge test data:
 ![](https://github.com/wanxingDaze/NTIRE2024_FINdehaze/blob/main/result.png)  
 ### Dependencies and Installation
 - python3.7
