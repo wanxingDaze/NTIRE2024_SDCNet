@@ -11,7 +11,7 @@ See more details in [ report ](https://openaccess.thecvf.com/content/CVPR2024W/N
 - tensorboardX(optional)
 - DCNv4
 
-- 
+
 - for DCNv4
 ```shell
 pip install DCNv4==latest
