@@ -35,3 +35,18 @@ python test_evt_tlc.py  \
 --hazy_data /root/autodl-tmp/data_dehaze/ntire24_test_hazy  \
 --cropping 4
 ```
+
+#Acknowledgement
+
+#Citation
+If you find this project useful, please consider citing:
+```
+@InProceedings{Liu_2024_CVPR,
+    author    = {Liu, Yidi and Wang, Xingbo and Zhu, Yurui and Fu, Xueyang and Zha, Zheng-Jun},
+    title     = {SDCNet:Spatially-Adaptive Deformable Convolution Networks for HR NonHomogeneous Dehazing},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops},
+    month     = {June},
+    year      = {2024},
+    pages     = {6682-6691}
+}
+```
